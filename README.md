@@ -13,7 +13,7 @@
 * [B_2178_미로탐색](URL "./baekjoon/B_2178_미로탐색.py")
 > * 출처 : https://www.acmicpc.net/problem/2178
 
-* [B_2606_바이러스](URL "https://github.com/j2junn/Algorithm_Study/blob/main/baekjoon/B_2606_바이러스.py")
+* [B_2606_바이러스](URL "/baekjoon/B_2606_바이러스.py")
 > * 출처 : https://www.acmicpc.net/problem/2606
 
 * [B_2644_촌수계산](URL "https://github.com/j2junn/Algorithm_Study/blob/main/acmicpc/B_2644_촌수계산.py")
