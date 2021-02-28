@@ -25,5 +25,5 @@
 * [B_7576_토마토](URL "https://github.com/j2junn/Algorithm_Study/blob/main/acmicpc/B_7576_토마토.py")
 > * 출처 : https://www.acmicpc.net/problem/7576
 
-* [test1](URL "../baekjoon/B_1234_test1.py")
+* [test1](URL "/blob/main/baekjoon/B_1234_test1.py")
 > * 출처 : asd
