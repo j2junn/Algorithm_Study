@@ -1,5 +1,3 @@
-# https://programmers.co.kr/learn/courses/30/lessons/43162#
-
 def DFS(n, computers, v, visited):
     visited[v] = True
 
