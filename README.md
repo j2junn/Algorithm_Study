@@ -4,6 +4,11 @@
 * 2021-02-28 ~ ing
 * B : 백준, P : 프로그래머스
 
+## 2021-03-01
+### 백준
+* [B_1260_DFS와BFS](./baekjoon/B_1260_DFS와BFS.py)
+> * 출처 : https://www.acmicpc.net/problem/1260
+
 ## 2021-02-28
 ### 프로그래머스
 * [P_43162_네트워크](./programmers/P_43162_네트워크.py)
