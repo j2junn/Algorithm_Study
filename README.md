@@ -5,6 +5,16 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-03-05
+### 프로그래머스
+* [P_43165_타겟넘버](./programmers/P_43165_타겟넘버.py)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/43165
+
+### 백준
+* [B_7562_나이트의이동](./baekjoon/B_7562_나이트의이동.py)
+> * 출처 : https://www.acmicpc.net/problem/7562
+
+
 ## 2021-03-01
 ### 백준
 * [B_1260_DFS와BFS](./baekjoon/B_1260_DFS와BFS.py)
@@ -17,7 +27,7 @@
 ## 2021-02-28
 ### 프로그래머스
 * [P_43162_네트워크](./programmers/P_43162_네트워크.py)
-> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/43162#
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/43162
 
 ### 백준
 * [B_2178_미로탐색](./baekjoon/B_2178_미로탐색.py)
