@@ -5,9 +5,28 @@
 * B : 백준, P : 프로그래머스
 
 
-## 2021-03-12
+## 2021-03-23
 ### 백준
+* [B_2309_일곱난쟁이](./baekjoon/B_2309_일곱난쟁이.py)
+> * 출처 : https://www.acmicpc.net/problem/2309
 
+
+## 2021-03-15
+### 백준
+* [B_1037_약수](./baekjoon/B_1037_약수.py)
+> * 출처 : https://www.acmicpc.net/problem/1037
+
+* [B_1978_소수찾기](./baekjoon/B_1978_소수찾기.py)
+> * 출처 : https://www.acmicpc.net/problem/1978
+
+* [B_2609_최대공약수와최소공배수](./baekjoon/B_2609_최대공약수와최소공배수.py)
+> * 출처 : https://www.acmicpc.net/problem/2609
+
+* [B_4375_1](./baekjoon/B_4375_1.py)
+> * 출처 : https://www.acmicpc.net/problem/4375
+
+* [B_17427_약수의합2](./baekjoon/B_17427_약수의합2.py)
+> * 출처 : https://www.acmicpc.net/problem/17427
 
 ## 2021-03-08
 ### 백준
