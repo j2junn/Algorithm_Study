@@ -5,9 +5,16 @@
 * B : 백준, P : 프로그래머스
 
 
-## 2021-03-23
+## 2021-04-08
 ### 프로그래머스
-* [p_42576_완주하지못한선수](./programmers/p_42576_완주하지못한선수.py)
+* [P_42862_체육복](./programmers/P_42862_체육복.py)
+> * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42862
+
+
+
+## 2021-04-07
+### 프로그래머스
+* [P_42576_완주하지못한선수](./programmers/p_42576_완주하지못한선수.py)
 > * 출처 : https://programmers.co.kr/learn/courses/30/lessons/42576
 
 * [P_42577_전화번호목록](./programmers/P_42577_전화번호목록.py)
