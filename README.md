@@ -5,6 +5,21 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-04-27
+### 백준
+* [B_1541_잃어버린괄호](./baekjoon/B_1541_잃어버린괄호.py)
+> * 출처 : https://www.acmicpc.net/problem/1541
+
+* [B_1931_회의실배정](./baekjoon/B_1931_회의실배정.py)
+> * 출처 : https://www.acmicpc.net/problem/1931
+
+* [B_11399_ATM](./baekjoon/B_11399_ATM.py)
+> * 출처 : https://www.acmicpc.net/problem/11399
+
+* [B_13305_주유소](./baekjoon/B_13305_주유소.py)
+> * 출처 : https://www.acmicpc.net/problem/13305
+
+
 ## 2021-04-08
 ### 프로그래머스
 * [P_42862_체육복](./programmers/P_42862_체육복.py)
