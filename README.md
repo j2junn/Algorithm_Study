@@ -5,6 +5,16 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-05-21
+### 백준
+* [B_1932_정수삼각형](./baekjoon/B_1932_정수삼각형.py)
+> * 출처 : https://www.acmicpc.net/problem/1932
+
+* [B_9184_신나는함수실행](./baekjoon/B_9184_신나는함수실행.py)
+> * 출처 : https://www.acmicpc.net/problem/9184
+
+
+
 ## 2021-04-27
 ### 백준
 * [B_1541_잃어버린괄호](./baekjoon/B_1541_잃어버린괄호.py)
