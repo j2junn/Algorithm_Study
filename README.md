@@ -5,6 +5,15 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-05-27
+### 백준
+* [B_1904_01타일](./baekjoon/B_1904_01타일.py)
+> * 출처 : https://www.acmicpc.net/problem/1904
+
+* [B_13458_시험감독](./baekjoon/B_13458_시험감독.py)
+> * 출처 : https://www.acmicpc.net/problem/13458
+
+
 ## 2021-05-26
 ### 백준
 * [B_1003_피보나치함수](./baekjoon/B_1003_피보나치함수.py)
