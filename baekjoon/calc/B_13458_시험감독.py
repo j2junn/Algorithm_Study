@@ -12,10 +12,11 @@ B, C = map(int, sys.stdin.readline().split())
 rooms = list(map(lambda r: r - B, rooms))
 
 for room in rooms:
-    if room % C != 0:
-        answer += int(room / C) + 1
-    else:
-        answer += int(room / C)
+    if room > 0:
+        if room % C == 0:
+            answer += room // C
+        else:
+            answer += room // C + 1
 
 print(len(rooms) + answer)
 
