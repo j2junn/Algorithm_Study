@@ -5,13 +5,19 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-07-03
+### acmicpc
+* [A_1149_RGB거리]
+> * 출처 : https://www.acmicpc.net/problem/1149
+
+* [A_2293_동전1]
+> * 출처 : https://www.acmicpc.net/problem/2293
 
 
 ## 2021-07-02
 ### acmicpc
 * [A_1932_정수삼각형]
 > * 출처 : https://www.acmicpc.net/problem/1932
-
 
 
 ## 2021-07-01
