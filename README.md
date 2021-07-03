@@ -5,6 +5,15 @@
 * B : 백준, P : 프로그래머스
 
 
+
+
+## 2021-07-02
+### acmicpc
+* [A_1932_정수삼각형]
+> * 출처 : https://www.acmicpc.net/problem/1932
+
+
+
 ## 2021-07-01
 ### acmicpc
 * [A_1260_DFS와BFS]
