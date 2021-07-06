@@ -5,6 +5,13 @@
 * B : 백준, P : 프로그래머스
 
 
+
+## 2021-07-06
+### acmicpc
+* [A_14889_스타트와링크]
+> * 출처 : https://www.acmicpc.net/problem/14889
+
+
 ## 2021-07-03
 ### acmicpc
 * [A_1149_RGB거리]
