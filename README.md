@@ -5,6 +5,12 @@
 * B : 백준, P : 프로그래머스
 
 
+## 2021-07-09
+### acmicpc
+* [A_5582_공통부분문자열]
+> * 출처 : https://www.acmicpc.net/problem/5582
+
+
 
 ## 2021-07-08
 ### acmicpc
