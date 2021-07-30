@@ -4,6 +4,9 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-07-30
+### acmicpc
+* [A_14888_연산자끼워넣기]
 
 ## 2021-07-29
 ### SW Expert Academy
