@@ -4,6 +4,14 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+
+## 2021-07-31
+### acmicpc
+* [A_2748_피보나치수2]
+* [A_1463_1로만들기]
+* [A_2579_계단오르기]
+
+
 ## 2021-07-30
 ### acmicpc
 * [A_14888_연산자끼워넣기]
