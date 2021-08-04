@@ -4,6 +4,12 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+
+## 2021-08-02
+### acmicpc
+* [A_5014_스타트와링크]
+
+
 ## 2021-08-02
 ### acmicpc
 * [A_9251_LCS]
