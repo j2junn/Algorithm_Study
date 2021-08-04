@@ -4,6 +4,12 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-08-02
+### acmicpc
+* [A_9251_LCS]
+* [A_11053_가장긴증가하는부분수열]
+* [A_11722_가장긴감소하는부분수열]
+
 
 ## 2021-07-31
 ### acmicpc
