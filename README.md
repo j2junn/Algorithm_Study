@@ -5,6 +5,11 @@
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
 
+## 2021-08-09
+### acmicpc
+* [A_2294_동전2]
+
+
 ## 2021-08-06
 ### acmicpc
 * [A_14501_퇴사]
