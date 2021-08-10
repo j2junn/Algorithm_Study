@@ -4,6 +4,11 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-08-10
+### acmicpc
+* [A_1759_암호만들기]
+* [A_14888_연산자끼워넣기]
+
 
 ## 2021-08-09
 ### acmicpc
