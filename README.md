@@ -4,6 +4,10 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-08-19
+### Programmers
+* [P_43105_정수삼각형]
+
 
 ## 2021-08-18
 ### Programmers
