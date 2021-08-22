@@ -4,8 +4,14 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+
+## 2021-08-22
+### Acmicpc
+* [A_21610_마법사상어와비바라기]
+
+
 ## 2021-08-21
-### Programmers
+### Acmicpc
 * [A_15686_치킨배달]
 
 
