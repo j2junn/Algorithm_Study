@@ -4,6 +4,10 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-08-23
+### Acmicpc
+* [A_7568_덩치]
+
 
 ## 2021-08-22
 ### Acmicpc
