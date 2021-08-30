@@ -5,6 +5,12 @@
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
 
+## 2021-08-30
+### Acmicpc
+* [A_10809_알파벳찾기]
+* [A_2675_문자열반복]
+* [A_1157_단어공부]
+
 ## 2021-08-27
 ### Acmicpc
 * [A_1972_놀라운문자열]
