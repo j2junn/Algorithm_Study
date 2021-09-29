@@ -4,6 +4,12 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-09-29
+### Acmicpc
+* [A_15686_치킨배달_다시풀기]
+* [A_14889_스타트와링크_다시풀기]
+* [A_14888_연산자끼워넣기_다시풀기]
+
 
 ## 2021-09-28
 ### Acmicpc
