@@ -4,10 +4,15 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-10-02
+### Programmers
+* [P_43165_타겟넘버]
+* [P_43162_네트워크]
+
+
 ## 2021-10-01
 ### Acmicpc
 * [A_1032_명령프롬프트]
-
 
 
 ## 2021-09-29
