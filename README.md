@@ -4,6 +4,11 @@
 * 2021-02-28 ~ ing
 * A : Acmicpc, P : Programmers, S : SW Expert Academy
 
+## 2021-10-05
+### Acmicpc
+* [A_3190_뱀]
+
+
 ## 2021-10-02
 ### Programmers
 * [P_43165_타겟넘버]
